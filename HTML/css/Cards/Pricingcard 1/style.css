@@ -1,0 +1,35 @@
+.btn{
+    background-color: rgb(255, 28, 157);
+    color: white;
+    padding: 2px ;
+    border-radius: 4px;
+    border: none;
+    font-size: medium;
+}
+
+.font{
+    color:  rgb(255, 28, 157);
+
+
+}
+
+.tborder{
+    border: 1px solid rgb(45, 42, 42);
+    border-radius: 4px;
+}
+
+.tcolor{
+    background-color: rgb(15, 15, 61);
+}
+
+.tfont{
+    color: white;
+}
+
+a{
+    background-color:rgb(255, 28, 157);
+    padding:  10px 20px 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius:10px;
+}

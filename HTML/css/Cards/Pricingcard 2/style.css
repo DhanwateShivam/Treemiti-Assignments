@@ -1,0 +1,73 @@
+
+/* first card*/
+
+*{
+    text-decoration: none;
+}
+
+.btcolor{
+    background-color:rgb(221, 171, 63) ;
+}
+
+a{
+    background-color:orangered;
+    padding:  5px 20px 5px 20px;
+    color: white;
+    border: none;
+    border-radius:20px;
+    
+}
+
+
+
+.font{
+    color: orangered;
+    font: size 16px;;
+
+
+}
+
+.tborder{
+    border: 2px solid;
+    border-radius: 2%;
+}
+
+.tcolor{
+    background-color:white;
+}
+
+.tfont{
+    color: white;
+}
+
+/* Second Card*/
+
+.btn2{
+    background-color: purple;
+    padding: 5px 20px 5px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    
+}
+
+.font2{
+    color: purple;
+    font: size 16px;;
+
+
+}
+
+.tborder2{
+    border: 2px solid;
+    border-radius: 0px;
+}
+
+.tcolor2{
+    background-color:white;
+}
+
+.tfont2{
+    color: purple;
+}
+
